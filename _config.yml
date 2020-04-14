@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 张赫的博客
+title: ZhangHe
 subtitle: ''
-description: ''
+description: '张赫的博客'
 keywords:
 author: 张赫
-language: en
-timezone: ''
+language: zh-CN
+timezone: 'Asia/Shanghai'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://zhanghe-git.github.io
+url: https://zhanghe-git.github.io/blog
 root: /blog
 permalink: :year/:month/:day/:title/
 permalink_defaults:
